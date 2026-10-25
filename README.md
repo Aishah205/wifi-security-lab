@@ -14,7 +14,7 @@ Most home and small-business Wi-Fi networks are still secured only by a password
 |---|---|
 | `aircrack-ng` suite (`airmon-ng`, `airodump-ng`, `aireplay-ng`, `aircrack-ng`) | Capture and crack WPA/WPA2 handshakes |
 | A monitor-mode-capable USB Wi-Fi adapter | Required for live capture (not available for this lab) |
-| A wordlist (e.g. `rockyou.txt`) | Dictionary source for cracking attempts |
+| A wordlist (`rockyou.txt`) | Dictionary source for cracking attempts |
 
 ## Simulated walkthrough
 
